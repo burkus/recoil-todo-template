@@ -1,4 +1,4 @@
-# Template to Recoil + Chakra Walkthrough
+# Template for Recoil + Chakra Walkthrough
 
 ### How to run
 * Clone it
